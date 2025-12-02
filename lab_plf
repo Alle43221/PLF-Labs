@@ -1,0 +1,9 @@
+SAPT 7 - test Prolog -> P1, P2a (fara liste heterogene) - 45 de minute
+       - tema P3 - backtracking - model de flux determinist/nedeterminist
+
+trace.
+apel(...)
+
+notrace.
+
+apel(..., R), write(R). -> pentru afisarea integrala a listelor lungi
